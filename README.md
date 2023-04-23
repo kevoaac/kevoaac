@@ -9,7 +9,7 @@
 
 ## **Technologies**
 
-<section style="display: inline_block">
+<section>
     <div style="display: inline_block">
       <span><strong>HTML</strong></span>
       <img align="center" alt="HTML-icon" height="32" width="32" src="https://raw.githubusercontent.com/kevoaac/kevoaac/main/icons/html-icon32px.png">
