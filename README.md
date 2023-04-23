@@ -39,5 +39,5 @@
 
 - I’m looking for help with ... spring framework :shipit::+1: 
 - Ask me about ... My proyects 🖥️💾
-- ⚡ Fun fact: ...
+
 
