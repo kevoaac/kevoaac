@@ -1,6 +1,6 @@
 # kevoaac here! ⌨️
 
-##### Computer Science Student</br></br>
+##### *Computer Science Student*</br></br>
 <p>
   Lorem ipsum dolor sit amet. Ut saepe placeat est repellendus dignissimos eos magnam quos est officia consequatur et repudiandae laboriosam et inventore porro. Et       expedita autem sed asperiores internos vel modi quibusdam ex molestias explicabo eos expedita adipisci.
 
